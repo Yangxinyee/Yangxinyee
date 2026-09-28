@@ -28,4 +28,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=xEgmvx4A
 
 ### 中文简介
 
-杨新烨（Xinye Yang，Charlie），AWS Kiro 软件工程师，科罗拉多大学安舒茨医学院研究助理。研究方向：基于 EHR 的患者世界模型、可靠的医学影像 AI，以及支撑它们的临床数据基础设施。代表开源项目 **EHR2Trace** 可将医院 EHR 导出数据转换为 OMOP CDM 5.4 与 MEDS 格式，每条记录可追溯到源数据，并对输出运行 55 项校验。
+杨新烨（Xinye Yang，Charlie），AWS Kiro 软件工程师，科罗拉多大学安舒茨医学院研究助理。研究方向：基于 EHR 的患者世界模型、可靠的医学影像 AI，以及支撑它们的临床数据基础设施。

@@ -1,14 +1,14 @@
 ## Hi, I'm Xinye (Charlie) Yang 👋
 
-Software engineer at **AWS Kiro** and research assistant at **CU Anschutz School of Medicine**. I work on **EHR-based patient world models**, **reliable medical imaging AI**, and the data infrastructure behind them.
+Software engineer at **AWS Kiro** and research assistant at **CU Anschutz School of Medicine**. At Kiro I build LLM context and memory systems for agentic coding. In research I work on **EHR-based patient world models**, **reliable medical imaging AI**, **clinical AI agents**, and the data infrastructure behind them.
 
 [Homepage](https://yangxinyee.github.io) · [Google Scholar](https://scholar.google.com/citations?user=xEgmvx4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/xinye-charlie-yang-939674286/) · [ORCID](https://orcid.org/0009-0004-3143-4263)
 
-### Featured projects
+### Projects
 
 | Project | What it does |
 | --- | --- |
-| [**EHR2Trace**](https://github.com/Yangxinyee/ehr2trace) | Converts hospital EHR exports into OMOP CDM 5.4 and MEDS, with row-level source lineage and 55 validation checks on the published outputs. Built for patient world models and clinical agents. [Project page and comparison with other converters](https://yangxinyee.github.io/projects/ehr2trace/). Paper coming soon. |
+| [**EHR2Trace**](https://github.com/Yangxinyee/ehr2trace) | Converts hospital EHR exports into OMOP CDM 5.4 and MEDS, with row-level source lineage and 55 validation checks on the published outputs. Built for patient world models and clinical agents. [Project page](https://yangxinyee.github.io/projects/ehr2trace/). |
 | [**vrm-edge-triage**](https://github.com/Yangxinyee/vrm-edge-triage) | Variational Risk Minimization for chest X-ray triage: distills a multimodal teacher into an image-only student for edge deployment. Code for our *Smart Health* 2026 paper. |
 | [**Q-DISTILL**](https://github.com/Yangxinyee/Q-DISTILL) | Self-supervised Q-Former distillation for image-only chest X-ray triage, using MedGemma pseudo-reports; accuracy 76.5% → 89.1%. Component of our *Smart Health* 2026 work. |
 | [**cxr-vlm-routing**](https://github.com/Yangxinyee/cxr-vlm-routing) | Reliability stress tests and decision-time routing for chest X-ray VLMs (CheXagent, MedGemma-4B/27B): code, MIMIC-CXR per-case results and tables for our IEEE/ACM CHASE 2026 workshop paper. |

@@ -1,6 +1,6 @@
 ## Hi, I'm Xinye (Charlie) Yang 👋
 
-Software engineer at **AWS Kiro** and research assistant at **CU Anschutz School of Medicine**. At Kiro I build LLM context and memory systems for agentic coding. In research I work on **EHR-based patient world models**, **reliable medical imaging AI**, **clinical AI agents**, and the data infrastructure behind them.
+Software engineer at **AWS Kiro** and research assistant at **CU Anschutz School of Medicine**. At Kiro I'v worked on LLM context and memory systems for agentic coding and also contribute to Kiro IDE, developing great features for costumers. In research I work on **EHR-based patient world models**, **reliable medical imaging AI**, **clinical AI agents**, and the data infrastructure behind them.
 
 [Homepage](https://yangxinyee.github.io) · [Google Scholar](https://scholar.google.com/citations?user=xEgmvx4AAAAJ) · [LinkedIn](https://www.linkedin.com/in/xinye-charlie-yang-939674286/) · [ORCID](https://orcid.org/0009-0004-3143-4263)
 
